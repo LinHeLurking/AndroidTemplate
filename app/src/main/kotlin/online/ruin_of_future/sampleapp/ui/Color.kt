@@ -1,4 +1,4 @@
-package online.ruin_of_future.notigen.ui.theme
+package online.ruin_of_future.sampleapp.ui
 
 import androidx.compose.ui.graphics.Color
 

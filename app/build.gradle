@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'online.ruin_of_future.notigen'
+    namespace 'online.ruin_of_future.sampleapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "online.ruin_of_future.notigen"
+        applicationId "online.ruin_of_future.sampleapp"
         minSdk 29
         targetSdk 33
         versionCode 1

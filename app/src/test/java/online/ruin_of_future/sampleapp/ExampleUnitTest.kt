@@ -1,4 +1,4 @@
-package online.ruin_of_future.notigen
+package online.ruin_of_future.sampleapp
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package online.ruin_of_future.notigen
+package online.ruin_of_future.sampleapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("online.ruin_of_future.notigen", appContext.packageName)
+        assertEquals("online.ruin_of_future.sampleapp", appContext.packageName)
     }
 }

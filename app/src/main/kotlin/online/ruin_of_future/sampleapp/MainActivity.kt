@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import online.ruin_of_future.sampleapp.ui.SampleAppTheme
+import online.ruin_of_future.sampleapp.ui.theme.SampleAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

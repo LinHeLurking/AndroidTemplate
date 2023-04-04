@@ -4,4 +4,4 @@
 
 ## 项目重命名
 
-`settings.gradle` 中修改项目名称，同时修改 `res` 中的一些定义，可以配合搜索功能替换全部的 `sampleapp`, `SampleApp`。
+`gradle.properties` 中修改项目名称，同时修改 `res/values/` 以及 `res/AndroidManifest.xml` 中的一些定义。

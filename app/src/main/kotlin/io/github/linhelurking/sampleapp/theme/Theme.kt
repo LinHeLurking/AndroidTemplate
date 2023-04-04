@@ -1,4 +1,4 @@
-package online.ruin_of_future.sampleapp.ui.theme
+package io.github.linhelurking.sampleapp.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

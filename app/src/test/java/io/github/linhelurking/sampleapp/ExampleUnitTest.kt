@@ -1,8 +1,7 @@
-package online.ruin_of_future.sampleapp
+package io.github.linhelurking.sampleapp
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).

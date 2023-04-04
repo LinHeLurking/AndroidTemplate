@@ -1,4 +1,4 @@
-package online.ruin_of_future.sampleapp
+package io.github.linhelurking.sampleapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,14 +10,14 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import online.ruin_of_future.sampleapp.ui.theme.SampleAppTheme
+import io.github.linhelurking.sampleapp.theme.SampleAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
             SampleAppTheme {
-                // A surface container using the 'background' color from the theme
+                // A surface container using the 'background' color from the io.github.linhelurking.sampleapp.theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
